@@ -22,7 +22,7 @@ result\<-merge_three_tables(students,scores,rollno,first_merge = "full_merge",se
 \
 ![](images/clipboard-1504431393.png)
 
-**3)- Hard Test** In a hard test, make a function of create.DB.map, multi.merge and visualize.DB.map. \## Installation
+**3)- Hard Test** In a hard test, make a function of create.DB.map, multi.merge and visualize.DB.map.
 
 Install the package directly from GitHub using `devtools`:
 
