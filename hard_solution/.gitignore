@@ -1,0 +1,4 @@
+# Ignore R history and session files
+.RData
+.Rhistory
+.DBmaps_0.1.0.tar.gz
