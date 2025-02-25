@@ -9,6 +9,8 @@ In Easy Test, we use the merge() function to perform four types of merges.
 ![image](https://github.com/user-attachments/assets/21f50a6d-8096-4791-b518-938a7f16af4c)
 
 
+
+
 **2)- Medium Test** In a medium test, make a function that will merge tables x and y and then merge this combined table with another table z.
 
 load("./data/students_data.rda")
@@ -22,6 +24,8 @@ result\<-merge_three_tables(students,scores,rollno,first_merge = "full_merge",se
 \
 \
 ![image](https://github.com/user-attachments/assets/88797c79-fb06-455b-8e40-e31f0d8f8654)
+
+
 
 
 **3)- Hard Test** In a hard test, make a function of create.DB.map, multi.merge and visualize.DB.map.
