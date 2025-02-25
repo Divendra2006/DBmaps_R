@@ -20,6 +20,14 @@ install.packages("devtools")
 # Install DBmaps from GitHub
 devtools::install_github("Divendra2006/DBmaps_R", subdir = "hard_solution/DBmaps", build_vignettes = TRUE)
 ```
+**To build the vignette and check the package**
+```r
+devtools::document()  # Generate documentation
+
+devtools::build_vignettes()  # Build the vignette
+
+devtools::check()  # Check the package
+```
 
 ## Usage
 
