@@ -8,7 +8,7 @@ In Easy Test, we use the merge() function to perform four types of merges. libra
 \
 ![](images/clipboard-1577292734.png)
 
-**2)- Medium Test** In a medium test, make a function that will merge tables x and y and then merge this combined table with another table z.\
+**2)- Medium Test** In a medium test, make a function that will merge tables x and y and then merge this combined table with another table z.
 
 load("./data/students_data.rda")
 
