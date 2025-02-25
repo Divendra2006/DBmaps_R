@@ -4,7 +4,7 @@ There are three Test to complete
 
 **1)- Easy Test**
 
-In Easy Test, we use the merge() function to perform four types of merges. library(data.table)\
+In Easy Test, we use the merge() function to perform four types of merges.
 \
 ![](images/clipboard-1577292734.png)
 
